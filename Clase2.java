@@ -12,6 +12,7 @@ public static void main(String[] args) {
 	double z;
 	double x;
 	int y;
+	System.out.println("hola");
 	 }
 
 }
