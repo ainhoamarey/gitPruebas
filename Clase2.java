@@ -10,6 +10,7 @@ public static void main(String[] args) {
 	     }
 
 	double z;
+	double x;
 	 }
 
 }
