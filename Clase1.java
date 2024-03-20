@@ -11,6 +11,7 @@ public class Clase1 {
 	            System.out.println("Nuevo método en clase1 en la nueva_rama");
 	        }
 	int c;
+	int d;
 	    }
 
 	}
