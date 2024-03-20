@@ -12,6 +12,7 @@ public class Clase1 {
 	        }
 	int c;
 	int d;
+	int e;
 	    }
 
 	}
