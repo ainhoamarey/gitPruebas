@@ -10,6 +10,7 @@ public class Clase1 {
 	        public void metodoNuevoEnRama() {
 	            System.out.println("Nuevo método en clase1 en la nueva_rama");
 	        }
+	int c;
 	    }
 
 	}
