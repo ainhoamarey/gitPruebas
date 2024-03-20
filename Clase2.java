@@ -8,6 +8,8 @@ public static void main(String[] args) {
 	     public void metodoModificado() {
 	         System.out.println("Método modificado en clase2 en la nueva_rama");
 	     }
+
+	double z;
 	 }
 
 }
