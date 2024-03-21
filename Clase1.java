@@ -10,10 +10,18 @@ public class Clase1 {
 	        public void metodoNuevoEnRama() {
 	            System.out.println("Nuevo método en clase1 en la nueva_rama");
 	        }
-	int c;
-	int d;
-	int e;
+	int c = 1;
+	int d = 2;
+	int e = 3;
 	    }
+
+	System.out.println("Ejemplo de desarrollo de codigo");
+	
+	public void sumar(c,d,e) {
+		
+		int res; 
+		
+		res = c+d+e;
 
 	}
 
